@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="416" viewBox="0 0 738 416">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b18"/><stop offset="1" stop-color="#16243f"/></linearGradient></defs>
+<rect width="738" height="416" fill="url(#g)"/>
+<g stroke="#22c55e" stroke-opacity="0.15" stroke-width="2"><path d="M0,300 L738,120 M0,360 L738,180 M0,240 L738,60"/></g>
+<circle cx="560" cy="200" r="120" fill="#22c55e" fill-opacity="0.18"/>
+<circle cx="560" cy="200" r="80" fill="none" stroke="#22c55e" stroke-width="6"/>
+<text x="560" y="222" text-anchor="middle" font-family="Courier New, monospace" font-size="60" font-weight="900" fill="#22c55e">SEC</text>
+<text x="48" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#cbd5e1">Protect</text>
+<text x="48" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#fff">Secure Backend</text>
+<rect x="48" y="196" width="90" height="8" rx="4" fill="#22c55e"/>
+<text x="48" y="380" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#94a3b8">CodSec</text>
+</svg>
